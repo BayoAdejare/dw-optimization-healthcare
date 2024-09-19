@@ -47,13 +47,13 @@ For this project, you can use one of the following synthetic healthcare datasets
 
 1. [Synthea](https://synthetichealth.github.io/synthea/): An open-source synthetic patient generator that models the medical history of synthetic patients.
 
-2. [MIMIC-III Demo Dataset](https://physionet.org/content/mimic3-demo/1.4/): A publicly available critical care database with deidentified health data.
+2. [MIMIC-III Demo Dataset](https://mimic.mit.edu/docs/gettingstarted/): A publicly available critical care database with deidentified health data.
 
-3. [HealthData.gov Synthetic Health Data](https://healthdata.gov/search/type/dataset): Provides various synthetic datasets related to healthcare.
+3. [HealthData.gov Health Data](https://healthdata.gov/browse): Provides various datasets related to healthcare.
 
 4. [CDC Synthetic COVID-19 Surveillance Data](https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4): Synthetic data based on COVID-19 case surveillance.
 
-5. [UK Biobank Synthetic Data](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/synthetic-data): Offers synthetic versions of real biobank data for testing and development.
+5. [UK Biobank Synthetic Data](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data): Offers synthetic versions of real biobank data for testing and development.
 
 Choose a dataset that best fits your project's needs and ensure compliance with any usage terms and conditions.
 
